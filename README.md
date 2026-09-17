@@ -198,11 +198,7 @@ Decisions about censorship need to consider safety, freedom, privacy, fairness a
 **Date:** 17/09/2026  
 **Campus:** CQU Sydney Campus  
 
-### Workshop Attendance
-
-**Insert your workshop attendance photo here.**
-
-![Workshop Attendance Photo](images/workshop-attendance.jpg)
+<img width="1379" height="1838" alt="image" src="https://github.com/user-attachments/assets/d5fbef8b-017e-4d9a-8d4b-8873b17113d7" />
 
 
 
@@ -220,20 +216,16 @@ The discussion about freedom of expression was also important for me. I understa
 
 My key takeaway from this topic is that censorship is a balance between freedom and safety. As an IT student, I think it is important to understand these ethical issues because technology systems can influence what information people can access and share.
 
----
+
 
 # References – CQU Harvard Style
+<img width="915" height="434" alt="image" src="https://github.com/user-attachments/assets/6fc867e0-f707-4f20-9f3b-13fb148f377e" />
 
-Australian Classification 2026, *What are the ratings?*, Australian Government, viewed 17 September 2026, <https://www.classification.gov.au/classification-ratings/what-are-ratings>.
 
-Australian Human Rights Commission 2013, *Freedom of expression and the Internet*, Australian Human Rights Commission, viewed 17 September 2026, <https://humanrights.gov.au/resource-hub/by-resource-type/projects-and-reports-folder/3-freedom-expression-and-internet>.
+<img width="945" height="410" alt="image" src="https://github.com/user-attachments/assets/7cf11013-dcee-44cc-970d-b3ac33af2d05" />
+<img width="942" height="422" alt="image" src="https://github.com/user-attachments/assets/8414eb70-c96f-4d9d-bab4-222990b97316" />
 
-Australian Human Rights Commission 2024, *Online Safety Act 2021 – Human Rights Review*, Australian Human Rights Commission, viewed 17 September 2026, <https://humanrights.gov.au/resource-hub/by-resource-type/submissions/technology-and-human-rights/online-safety>.
 
-eSafety Commissioner 2025, *What is illegal and restricted online content?*, Australian Government, viewed 17 September 2026, <https://www.esafety.gov.au/report/what-is-illegal-restricted-content>.
 
-Freedom House 2025, *Freedom on the Net 2025: An Uncertain Future for the Global Internet*, Freedom House, viewed 17 September 2026, <https://freedomhouse.org/report/freedom-net>.
 
-Howard, J 2024, ‘The Ethics of Social Media: Why Content Moderation is a Moral Duty’, *Journal of Practical Ethics*, vol. 11, no. 2, pp. 33–52, viewed 17 September 2026, <https://journals.publishing.umich.edu/jpe/article/id/6195/>.
 
-Yadin, D, Yahav, I, Zalmanson, L & Munichor, N 2024, ‘Resolving the Ethical Tension Between Creating a Civil Environment and Facilitating Free Expression Online: Comment Reordering as an Alternative to Comment Moderation’, *Journal of Business Ethics*, vol. 192, pp. 261–283, viewed 17 September 2026, <https://link.springer.com/article/10.1007/s10551-023-05450-9>.
